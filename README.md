@@ -11,7 +11,7 @@
 
 #### Installation
 
-This is a addon plugin for the [Chai Assertion Library](http://chaijs.com). Install via [npm](http://npmjs.org).
+This is an addon plugin for the [Chai Assertion Library](http://chaijs.com). Install via [npm](http://npmjs.org).
 
     npm install chai-http
 
